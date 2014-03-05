@@ -3,7 +3,7 @@
 Plugin.create :scrollbar_size do
   UserConfig[:scrollbar_size] ||= 24
 
-  settings "スクロールバーのアイコンサイズ" do
+  settings "スクロールバーのサイズ" do
       adjustment("スクロールバーの幅（再起動必要）", :scrollbar_size, 1, 100)
   end
 
