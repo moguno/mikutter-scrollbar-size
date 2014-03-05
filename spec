@@ -5,7 +5,7 @@ depends:
   plugin:
   - settings
   - gtk
-version: 0.0.1
+version: 0.0.2
 author: moguno
 name: スクロールバーのサイズ変更
 description: スクロールバーのサイズを変更します。タッチインターフお供に。
